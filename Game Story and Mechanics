@@ -1,0 +1,39 @@
+Different Elements of Game Design:
+
+
+1 : Characters - 
+        a : PC - PC
+
+        b : NPC - Surviviours, Guns, Bombs, Swords, Zombies, Bullets, energy drinks, heals. 
+
+2 : Story  
+            - There was a storm which came without warning. 
+            - It turned 99% of the population into zombies. 
+            - One of the Surviviours (The playing character (PC)) spoted a base, he planned to go out there and get some help. 
+            - They took the PC to their base and he saw few surviviours. 
+            
+3 : Goals   - Rescue the survivours(Who were not infected by the virus) and collect elements to increase the PC shield life. 
+            - Save the PC from zombies,bullets and Missiles
+
+4 : Rules   - Do not get hit by zombies,Bullets,Missiles
+            - Use  Keyboard keys(WASD) to move the PC
+            - PC can protect himself with a shield provided by the leader. 
+
+5 : Balance - PC can save himself from the zombie using a shield
+
+
+6 : Adaptivity - When shield life is above some value we can increase the number of zombies
+
+
+7 : Chance - Appearance of zombies and getting killed
+
+
+8 : Skill - PC trying to collect and save himself by moving swiftly
+
+
+9 : Feedback - Sounds
+             - Shield Life value
+
+
+
+            
